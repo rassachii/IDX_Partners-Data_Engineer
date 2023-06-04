@@ -1,1 +1,0 @@
-# IDX_Partners-Data_Engineer
